@@ -1,2 +1,2 @@
 # linux-process-lab
-Learning Repo
+This repository tracks my learning regarding OS and linux
